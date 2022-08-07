@@ -24,7 +24,8 @@ urlpatterns = [
     path('about',views.about, name= "about"),
     path('inventory',views.inventory, name= "inventory"),
     path('contact',views.contact, name= "contact"),
-    path('<int:car_id>',views.car_detail, name= "car_detail")
+    path('<int:car_id>',views.car_detail, name= "car_detail"),
+    path('filter_results',views.filter_results, name="filter_results"),
 
 ]
 
