@@ -3,7 +3,7 @@
 ### Instrucțiuni descarcare:
 Proiect se descarca cu ajutorul comeznii:
 ```sh
-git clone 
+git clone https://github.com/GAlex22/Proiect_Django_CarDealer
 ```
 
 ### Instrucțiuni instalare
