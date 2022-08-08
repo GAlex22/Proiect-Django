@@ -1,7 +1,7 @@
 # Car Dealer (Django Project)
 
 ### Instrucțiuni descarcare:
-Proiect se descarca cu ajutorul comeznii:
+Proiect se descarca cu ajutorul comenzii:
 ```sh
 git clone https://github.com/GAlex22/Proiect_Django_CarDealer
 ```
